@@ -67,3 +67,4 @@ Documentation for the individual commands is available in the [Docs](https://git
 * [AzureDevOpsPowerShell](https://github.com/rfennell/AzureDevOpsPowershell) - A selection of PowerShell scripts that make use of the Azure DevOps (TFS/VSTS) APIs.
 * [vststools-cli](https://github.com/AssureCare/vststools-cli) - A set of useful command-line tools and extensions for VSTS.
 * [AzurePipelinesPS](https://github.com/Dejulia489/AzurePipelinesPS) - A PowerShell module that makes interfacing with Azure Pipelines a little easier
+* [AZDOPS](https://github.com/AZDOPS/AZDOPS)

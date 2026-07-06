@@ -7,13 +7,13 @@ AzureDevOps is a PowerShell module for interacting with the Azure DevOps REST AP
 Install the module from the PowerShell Gallery:
 
 ```powershell
-Install-PSResource -Name AzureDevOps
+Install-Module -Name AzureDevOps
 Import-Module -Name AzureDevOps
 ```
 
 ## Documentation
 
-Documentation is published at [psmodule.io/AzureDevOps](https://psmodule.io/AzureDevOps/).
+Documentation is published at [psmodule.io/AzureDevOps](https://psmodule.io/AzureDevOps/). The generated command documentation is also available in [Docs](Docs/).
 
 Use PowerShell help and command discovery for module details:
 
